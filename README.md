@@ -3,7 +3,7 @@
   <a href="https://github.com/SIGEIV/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Pentester+and+CyberSecurity+Analist+SoftwareDeveloper"></a>
 </p>
 
-<h4 align="center">I am a junior Pentester, Certified Ethical Hacker, Cybersecurity Analist and Software Developer. Looking to take a part in a challenging project related to Cybersecurity, Pentesting os Software Development.</h4>
+<h4 align="center">I am a Certified Ethical Hacker, Pentester, Cybersecurity Analist and Software Developer. Looking to take a part in a challenging project related to Cybersecurity, Pentesting os Software Development.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SIGEIV&label=Profile%20views&color=F70000&style=iron" alt="SIGEIV" /> </p>
 
