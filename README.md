@@ -10,7 +10,6 @@
 
 
 
-<img align="right" alt="GIF" src="file:///home/predator/Pictures/Wallpapers/attachment_115752909.png" width=300&height=300"/>
 
 <br><br><br>
 
