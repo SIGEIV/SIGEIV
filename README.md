@@ -88,8 +88,6 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 
 <br/><a target="_blank"></a>
 **🚩STATS:**
-<br/><br/>
-<a href="https://github.com/SIGEIV"><img src="https://github-readme-stats.vercel.app/api?username=SIGEIV&show_icons=true&count_private=true&theme=highcontrast" alt="SIGEIV's Github Stats" width="450"/>
 <br><br>
 
 <p align="center" width="100%">
