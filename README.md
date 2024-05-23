@@ -100,17 +100,11 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 </a>
 </p>
 <br>
+<p align="center">
 <img src="https://https://github.com/d4rkn3m3s1s/d4rkn3m3s1s/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="VISUALS"></center>
+</p>
+<br>
 
- <br/>
-
-  <br>
-  <br>
-  </a>
-  <div align="center" >
-<p>&nbsp;</p>
-
-<br/>
 
 ## :trophy: Git profile Trophies
 
