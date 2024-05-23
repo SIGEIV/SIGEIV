@@ -90,14 +90,12 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 **🚩STATS:**
 <br/><br/>
 <a href="https://github.com/SIGEIV"><img src="https://github-readme-stats.vercel.app/api?username=SIGEIV&show_icons=true&count_private=true&theme=highcontrast" alt="SIGEIV's Github Stats" width="450"/>
-</a>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIGEIV&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="SIGEIV" width="350"/></a>
-<br/>
-
 <br><br>
 
 <p align="center" width="100%">
 <a href="https://github.com/d4rkn3m3s1s">
+  <img  src="https://github-readme-stats.vercel.app/api?username=d4rkn3m3s1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4rkn3m3s1s&layout=compact&langs_count=8&theme=midnight-purple"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="d4rkn3m3s1s" /
 </a>
 </p>
