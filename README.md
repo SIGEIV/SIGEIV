@@ -98,17 +98,10 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 </a>
 </p>
 <br>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
- <br/>
-
-  <br>
-  <br>
-  </a>
-  <div align="center" >
-<p>&nbsp;</p>
-
-<br/>
+<p align="center">
+  <img src="https://github.com/SIGEIV/SIGEIV/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GUWOP"></center>
+</p>
+<br>
 
 
 ## :trophy: Git profile Trophies
