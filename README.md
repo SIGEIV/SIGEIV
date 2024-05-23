@@ -98,11 +98,17 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 </a>
 </p>
 <br>
-<p align="center">
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
- </p>
-<br>
+ <br/>
+
+  <br>
+  <br>
+  </a>
+  <div align="center" >
+<p>&nbsp;</p>
+
+<br/>
 
 
 ## :trophy: Git profile Trophies
