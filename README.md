@@ -100,7 +100,7 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 
 
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://https://github.com/ooalberto/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 
