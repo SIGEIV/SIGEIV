@@ -93,7 +93,7 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 <p align="center" width="100%">
 <a href="https://github.com/SIGEIV">
   <img  src="https://github-readme-stats.vercel.app/api?username=SIGEIV&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SIGEIV&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshitagupta15&junelayout=compact&langs_count=8&theme=midnight-purple"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SIGEIV&theme=midnight-purple" alt="SIGEIV" /
 </a>
 </p>
