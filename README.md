@@ -94,6 +94,13 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIGEIV&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="SIGEIV" width="350"/></a>
 <br/>
 
+<br><br>
+
+<p align="center" width="100%">
+<a href="https://github.com/d4rkn3m3s1s">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=d4rkn3m3s1s&theme=midnight-purple" alt="d4rkn3m3s1s" /
+</a>
+</p>
 <br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -107,6 +114,7 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 <p>&nbsp;</p>
 
 <br/>
+
 
 ## :trophy: Git profile Trophies
 
