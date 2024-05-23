@@ -113,7 +113,6 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 
 <br/>
 
-
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/SIGEIV"><img src="https://github-profile-trophy.vercel.app/?username=SIGEIV&layout=compact&theme=algolia" alt="SIGEIV"/> </p>
