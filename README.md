@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi , I'm -SIGEIV- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Hi , I'm -BRIAN SIGEI- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/SIGEIV/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Pentester+and+CyberSecurity+Analist+SoftwareDeveloper"></a>
 </p>
@@ -14,7 +14,7 @@
 <br><br><br>
 
 - 👨🏽‍💻 I’m currently working on  Hacking Tools;
-- 🌱 I’m currently Head of SIGEIV; 
+- 🌱 I’m currently Head of RAGE-DEVS; 
 - 💬 Ask me about anything, I am happy to help;
 - I am a Pentester, CEH, Cybersecurity Analist and Software Developer with extensive knowledges in different programming areas. Looking to take a part in a challenging project
 related to Cybersecurity, Pentesting or Software Development.<br><br><br>
