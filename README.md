@@ -79,9 +79,9 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 <br/><br/>
 
 <br/><a target="_blank"></a>
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SIGEIV/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SIGEIV/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SIGEIV?style=social)
 
 
 **📨 SOCIALS:**
