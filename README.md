@@ -79,6 +79,11 @@ related to Cybersecurity, Pentesting or Software Development.<br><br><br>
 <br/><br/>
 
 <br/><a target="_blank"></a>
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=social)
+
+
 **📨 SOCIALS:**
 <br/><br/>
 <a href="SIGEIV@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"/></a>
