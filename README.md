@@ -9,7 +9,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SIGEIV&label=Profile%20views&color=F70000&style=iron" alt="SIGEIV" /> </p>
 <br><br>
-### 👨🏽‍💻 About Me
+
 
 * 👨🏽‍💻 I’m currently working on **AI, Machine Learning & Software Development** projects.
 * 🚀 I’m currently **Head of RAGE-DEVS**.
