@@ -3,7 +3,8 @@
   <a href="https://github.com/SIGEIV/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Pentester+and+CyberSecurity+Analist+SoftwareDeveloper"></a>
 </p>
 
-<h4 align="center">I am a Certified Ethical Hacker, Pentester, Cybersecurity Analist and Software Developer. Looking to take a part in a challenging project related to Cybersecurity, Pentesting os Software Development.</h4>
+<h4 align="center">I am an AI & Data Science professional, Software Developer, Machine Learning and Data Science enthusiast. Currently pursuing an MSc in Informatics (AI & Data Science), with expertise in AI, Machine Learning, Deep Learning, Data Science, Software Development and Information Systems. Looking to contribute to challenging projects in AI, Data Science and Software Engineering.
+</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SIGEIV&label=Profile%20views&color=F70000&style=iron" alt="SIGEIV" /> </p>
 
@@ -12,12 +13,12 @@
 
 
 <br><br><br>
-
-- 👨🏽‍💻 I’m currently working on  Hacking Tools;
-- 🌱 I’m currently Head of RAGE-DEVS; 
-- 💬 Ask me about anything, I am happy to help;
-- I am a Pentester, CEH, Cybersecurity Analist and Software Developer with extensive knowledges in different programming areas. Looking to take a part in a challenging project
-related to Cybersecurity, Pentesting or Software Development.<br><br><br>
+* 👨🏽‍💻 I’m currently working on AI, Machine Learning & Software Development projects;
+* 🚀 I’m currently Head of RAGE-DEVS;
+* 🌱 I’m currently pursuing an MSc in Informatics (AI & Data Science);
+* 💬 Ask me about AI, Data Science, Machine Learning, Software Development & Technology;
+* I am an AI & Data Science professional and Software Developer with expertise in AI, Machine Learning, Deep Learning, Data Science and Software Engineering. Looking to take part in challenging projects related to AI, Data Science or Software Development.
+<br><br><br>
 <br>
 
 
