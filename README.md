@@ -1,6 +1,7 @@
 <h1 align="center"> 👋 Hi , I'm -BRIAN SIGEI- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/SIGEIV/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Pentester+and+CyberSecurity+Analist+SoftwareDeveloper"></a>
+ <a href="https://github.com/SIGEIV/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=AI+%26+Data+Science+Professional;Machine+Learning+%26+Deep+Learning;Software+Developer;Data+Scientist;AI+Engineer"></a>
+
 </p>
 
 <h4 align="center">I am an AI & Data Science professional, Software Developer, Machine Learning and Data Science enthusiast. Currently pursuing an MSc in Informatics (AI & Data Science), with expertise in AI, Machine Learning, Deep Learning, Data Science, Software Development and Information Systems. Looking to contribute to challenging projects in AI, Data Science and Software Engineering.
@@ -17,8 +18,7 @@
 * 🚀 I’m currently Head of RAGE-DEVS;
 * 🌱 I’m currently pursuing an MSc in Informatics (AI & Data Science);
 * 💬 Ask me about AI, Data Science, Machine Learning, Software Development & Technology;
-* I am an AI & Data Science professional and Software Developer with expertise in AI, Machine Learning, Deep Learning, Data Science and Software Engineering. Looking to take part in challenging projects related to AI, Data Science or Software Development.
-<br><br><br>
+* I am an AI & Data Science professional and Software Developer with expertise in AI, Machine Learning, Deep Learning, Data Science and Software Engineering. Looking to take part in challenging projects related to AI, Data Science or Software Development.<br><br><br>
 <br>
 
 
