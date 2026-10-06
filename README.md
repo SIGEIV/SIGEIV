@@ -13,7 +13,7 @@
 
 * 👨🏽‍💻 I’m currently working on **AI, Machine Learning & Software Development** projects.
 * 🚀 I’m currently **Head of RAGE-DEVS**.
-* 🌱 I’m currently pursuing an **MSc in Informatics (AI & Data Science)**.
+* 🌱 I’m currently pursuing a **MSc in Informatics (AI & Data Science)**.
 * 💬 Ask me about **AI, Data Science, Machine Learning, Software Development & Technology**.
 * 🧠 I am an **AI & Data Science professional and Software Developer** with expertise in **AI, Machine Learning, Deep Learning, Data Science and Software Engineering**.
 * 🚀 Looking to take part in **challenging projects** related to **AI, Data Science and Software Development**.
